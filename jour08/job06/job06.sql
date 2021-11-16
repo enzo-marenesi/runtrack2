@@ -1,0 +1,1 @@
+select * FROM etudiants where prenom like "t%"
